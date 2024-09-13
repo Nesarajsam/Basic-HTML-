@@ -1,0 +1,26 @@
+body {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 18px;
+  }
+
+  #color{
+    color: red;
+  }
+
+  #size{
+    font-size: 200%;
+  }
+
+  #weight{
+    font-weight: 900;
+  }
+
+  #family{
+    font-family: italic ;
+  }
+
+  #Align{
+    text-align: right;
+  }
+
